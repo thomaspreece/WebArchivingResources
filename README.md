@@ -31,7 +31,8 @@ Below are links to the other tools mentioned during the talk. You don't need to 
 - Archiving StoryKit: (Link Coming Soon)
 - Overview of StoryKit Project: https://www.bbc.co.uk/rd/projects/object-based-media-toolkit
 - Overview of my involvement in StoryKit Project: https://thomaspreece.com/2020/09/26/project-storykit/
-- Open sourced components of StoryKit: https://thomaspreece.com/2021/02/26/open-sourced-bbc-rd-object-based-media-schema-storyplayer/
+- Overview of Archiving formats & tools: https://thomaspreece.com/2018/01/29/project-web-archiving/
+- Open sourced components of StoryKit: https://github.com/bbc/object-based-media-schema & https://github.com/bbc/storyplayer
 - Web Archiving at the BBC: https://www.bbc.co.uk/blogs/internet/entries/9c7aae0d-baa8-4f09-826b-634c501e80e3
 
 ## Web Archiving Formats
