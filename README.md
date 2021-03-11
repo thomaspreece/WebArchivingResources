@@ -28,7 +28,7 @@ Below are links to the other tools mentioned during the talk. You don't need to 
 
 ## Blog Posts on StoryKit/Archiving
 
-- Archiving StoryKit: (Link Coming Soon)
+- Archiving StoryKit: http://www.bbc.co.uk/rd/blog/2021-03-archiving-storykits-interactive-web-based-experiences
 - Overview of StoryKit Project: https://www.bbc.co.uk/rd/projects/object-based-media-toolkit
 - Overview of my involvement in StoryKit Project: https://thomaspreece.com/2020/09/26/project-storykit/
 - Overview of Archiving formats & tools: https://thomaspreece.com/2018/01/29/project-web-archiving/
